@@ -1,6 +1,7 @@
 {
   "name": "cra-template-ifui",
   "version": "1.0.0",
+  "author": "ifui@foxmail.com",
   "keywords": [
     "react",
     "create-react-app",
@@ -20,6 +21,7 @@
   "bugs": {
     "url": "https://github.com/ifui/cra-template-ifui/issues"
   },
+  "main": "template.json",
   "files": [
     "template",
     "template.json"
